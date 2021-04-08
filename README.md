@@ -18,4 +18,4 @@ Paper and Rock =>Paper win
 Below is what the GUI looks like:
 
 ## Screenshot
-![img](img.png)
+![img](jpg.png)
